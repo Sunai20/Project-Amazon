@@ -11,6 +11,7 @@
 .navbar { height: 60px;background-color: #0f1111; display: flex; align-items: center; justify-content: space-evenly;
 }
 /* amazon logo */
+.amazon-logo { height: 182; width: 603}
 .border { border-color: 1px solid transparent; color: white;}
 .border:hover {border: 1px solid white;  }
 /* delivary country */
